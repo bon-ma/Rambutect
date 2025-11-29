@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/bonfire/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/.cxx/RelWithDebInfo/405n592v/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/bonfire/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/.cxx/RelWithDebInfo/405n592v/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "image_processing::@6890427a1f51a3e7e1df": {
+      "artifactName": "image_processing",
+      "abi": "x86_64",
+      "output": "/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/build/intermediates/cxx/RelWithDebInfo/405n592v/obj/x86_64/libimage_processing.so",
+      "runtimeFiles": []
+    }
+  }
+}

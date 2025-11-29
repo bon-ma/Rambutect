@@ -1,0 +1,91 @@
+description: Ultralytics YOLO11n model trained on /content/Fruit-and-Vegetables-Detector-1/data.yaml
+author: Ultralytics
+date: '2025-09-17T08:35:10.064311'
+version: 8.3.201
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+  - 640
+  - 640
+names:
+  0: Garlic
+  1: Chili Pepper
+  2: Onion
+  3: Potato
+  4: Sponge Gourd
+  5: Tomato
+  6: Bottle Gourd
+  7: Apricot
+  8: Apple
+  9: Apricot
+  10: Avocado
+  11: Banana
+  12: Beetroot
+  13: Blueberry
+  14: Cantaloupe
+  15: Carambola
+  16: Cauliflower
+  17: Cherry
+  18: Chestnut
+  19: Clementine
+  20: Cocos
+  21: Corn
+  22: Cucumber
+  23: Dates
+  24: Eggplant
+  25: Fig
+  26: Ginger Root
+  27: Granadilla
+  28: Grape
+  29: Grape White
+  30: Grapefruit
+  31: Guava
+  32: Hazelnut
+  33: Huckleberry
+  34: Kaki
+  35: Kiwi
+  36: Kohlrabi
+  37: Kumquats
+  38: Lemon
+  39: Limes
+  40: Lychee
+  41: Mandarine
+  42: Mango
+  43: Mangosteen
+  44: Maracuja
+  45: Melon
+  46: Mulberry
+  47: Nut Forest
+  48: Orange
+  49: Papaya
+  50: Passion Fruit
+  51: Peach
+  52: Pear
+  53: Pecan
+  54: Pepino
+  55: Pepper
+  56: Physalis
+  57: Pineapple
+  58: Pitahaya Red
+  59: Plum
+  60: Pomegranate
+  61: Pomelo
+  62: Quince
+  63: Rambutan
+  64: Raspberry
+  65: Redcurrant
+  66: Salak
+  67: Strawberry
+  68: Walnut
+  69: Watermelon
+  70: cactus fruit
+args:
+  batch: 1
+  fraction: 1.0
+  half: false
+  int8: false
+  nms: false
+channels: 3

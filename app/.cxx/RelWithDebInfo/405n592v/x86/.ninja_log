@@ -1,0 +1,6 @@
+# ninja log v5
+0	157	1762010212301574198	CMakeFiles/image_processing.dir/image_processing.cpp.o	2585c72301ee3872
+157	319	1762010212460478234	/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/build/intermediates/cxx/RelWithDebInfo/405n592v/obj/x86/libimage_processing.so	60676cc5912981b0
+0	27	0	clean	eb35fced237028dd
+0	207	1762012320654899510	CMakeFiles/image_processing.dir/image_processing.cpp.o	2585c72301ee3872
+207	457	1762012320890075861	/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/build/intermediates/cxx/RelWithDebInfo/405n592v/obj/x86/libimage_processing.so	60676cc5912981b0

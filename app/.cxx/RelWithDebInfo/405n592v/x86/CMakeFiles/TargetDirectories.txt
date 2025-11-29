@@ -1,0 +1,3 @@
+/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/.cxx/RelWithDebInfo/405n592v/x86/CMakeFiles/image_processing.dir
+/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/.cxx/RelWithDebInfo/405n592v/x86/CMakeFiles/edit_cache.dir
+/Users/bonfire/AndroidStudioProjects/rambutan_detection/app/.cxx/RelWithDebInfo/405n592v/x86/CMakeFiles/rebuild_cache.dir
